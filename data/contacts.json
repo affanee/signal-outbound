@@ -1,0 +1,14 @@
+[
+  {"account": "northwind-signals.com", "email": "priya.raman@northwind-signals.com", "first_name": "Priya", "last_name": "Raman", "title": "VP Revenue Operations"},
+  {"account": "northwind-signals.com", "email": "tom.hale@northwind-signals.com", "first_name": "Tom", "last_name": "Hale", "title": "Chief Revenue Officer"},
+  {"account": "meridian-pipeline.io", "email": "dana.whitfield@meridian-pipeline.io", "first_name": "Dana", "last_name": "Whitfield", "title": "Chief Revenue Officer"},
+  {"account": "halstead-analytics.co.uk", "email": "oliver.grant@halstead-analytics.co.uk", "first_name": "Oliver", "last_name": "Grant", "title": "Head of Sales"},
+  {"account": "brunnen-systems.de", "email": "lena.vogel@brunnen-systems.de", "first_name": "Lena", "last_name": "Vogel", "title": "Director of Sales Operations"},
+  {"account": "kestrelworks.com.au", "email": "mia.hart@kestrelworks.com.au", "first_name": "Mia", "last_name": "Hart", "title": "CTO"},
+  {"account": "sundaralabs.in", "email": "kavya.iyer@sundaralabs.in", "first_name": "Kavya", "last_name": "Iyer", "title": "Head of Growth"},
+  {"account": "pixelforge.design", "email": "sam.ortiz@pixelforge.design", "first_name": "Sam", "last_name": "Ortiz", "title": "Founder"},
+  {"account": "cadence-revops.com", "email": "marcus.bell@cadence-revops.com", "first_name": "Marcus", "last_name": "Bell", "title": "VP Sales"},
+  {"account": "orbit-ledger.com", "email": "nadia.haddad@orbit-ledger.com", "first_name": "Nadia", "last_name": "Haddad", "title": "Head of Sales"},
+  {"account": "tallgrass-data.com", "email": "ben.okoro@tallgrass-data.com", "first_name": "Ben", "last_name": "Okoro", "title": "Head of Revenue Operations"},
+  {"account": "vantaloop.com", "email": "ella.brooks@vantaloop.com", "first_name": "Ella", "last_name": "Brooks", "title": "Sales Manager"}
+]
